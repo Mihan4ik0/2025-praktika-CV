@@ -1,0 +1,82 @@
+[
+    {
+        "type": "image",
+        "original_filename": "uploads\\Cow_female_black_white.jpg",
+        "processed_filename": "outputs\\processed_Cow_female_black_white.jpg",
+        "detections": {
+            "cows": 2
+        },
+        "file_size_kb": 232.78,
+        "resolution": "1200x801",
+        "processing_time_sec": 0.72,
+        "timestamp": "2025-04-28T23:21:55.588053",
+        "model_used": "yolov8n.pt"
+    },
+    {
+        "type": "image",
+        "original_filename": "uploads\\images.jpg",
+        "processed_filename": "outputs\\processed_images.jpg",
+        "detections": {
+            "cows": 0
+        },
+        "file_size_kb": 28.36,
+        "resolution": "655x468",
+        "processing_time_sec": 0.25,
+        "timestamp": "2025-04-28T23:22:30.363781",
+        "model_used": "yolov8n.pt"
+    },
+    {
+        "type": "image",
+        "original_filename": "uploads\\images(1).jpg",
+        "processed_filename": "outputs\\processed_images.jpg",
+        "detections": {
+            "cows": 0
+        },
+        "file_size_kb": 28.36,
+        "resolution": "655x468",
+        "processing_time_sec": 0.25,
+        "timestamp": "2025-04-28T23:26:53.514565",
+        "model_used": "yolov8n.pt"
+    },
+    {
+        "type": "image",
+        "original_filename": "uploads\\Cow_female_black_white(1).jpg",
+        "processed_filename": "outputs\\processed_Cow_female_black_white.jpg",
+        "detections": {
+            "cows": 2
+        },
+        "file_size_kb": 232.78,
+        "resolution": "1200x801",
+        "processing_time_sec": 0.72,
+        "timestamp": "2025-04-28T23:26:57.342418",
+        "model_used": "yolov8n.pt"
+    },
+    {
+        "type": "video",
+        "original_filename": "uploads\\457272_Kwazulu Natal_Kwazulu Natal Midlands_1920x1080.mp4",
+        "processed_filename": "outputs\\processed_457272_Kwazulu Natal_Kwazulu Natal Midlands_1920x1080.mp4",
+        "detections": {
+            "total_cows": 72,
+            "average_cows_per_frame": 0.11
+        },
+        "file_size_kb": 18439.0,
+        "resolution": "1920x1056",
+        "processing_time_sec": 108.94,
+        "timestamp": "2025-04-28T23:40:10.213221",
+        "model_used": "yolov8n.pt"
+    },
+    {
+        "type": "video",
+        "original_filename": "uploads\\457272_Kwazulu Natal_Kwazulu Natal Midlands_1920x1080(1).mp4",
+        "processed_filename": "outputs\\processed_457272_Kwazulu Natal_Kwazulu Natal Midlands_1920x1080.mp4",
+        "detections": {
+            "total_cows": 72,
+            "average_cows_per_frame": 0.11
+        },
+        "file_size_kb": 18439.0,
+        "resolution": "1920x1056",
+        "processing_time_sec": 113.68,
+        "timestamp": "2025-04-29T00:05:41.784457",
+        "model_used": "yolov8n.pt"
+    }
+]
